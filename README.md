@@ -14,6 +14,7 @@ This extension uses the Bootstrap 4 breakpoints. More info at https://getbootstr
 ## Snippets
 
 | Prefix | Result |
+|---|---|
 | small-devices-and-up-media-query | Small devices and larger (landscape phones, 576px and up) |
 | medium-devices-and-up-media-query | Medium devices and larger (tablets, 768px and up) |
 | large-devices-and-up-media-query | Large devices and larger (desktops, 992px and up) |
