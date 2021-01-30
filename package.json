@@ -1,0 +1,34 @@
+{
+    "name": "css-snippets",
+    "displayName": "CSS Snippets",
+    "publisher": "Ajith G.",
+    "author": { "name": "Ajith Gopi", "email": "ajithgopiofficial@gmail.com", "url": "https://agopi.tech" },
+    "description": "Frequently used snippets for CSS",
+    "version": "1.0.0",
+    "icon": "css.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ajithgopi/css-snippets"
+    },
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [{
+                "language": "css",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "sass",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
