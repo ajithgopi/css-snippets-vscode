@@ -1,7 +1,7 @@
 {
     "name": "css-mq-snippets",
     "displayName": "CSS Media Query Snippets",
-    "publisher": "Ajith G.",
+    "publisher": "Ajith Gopi",
     "author": { "name": "Ajith Gopi", "email": "ajithgopiofficial@gmail.com", "url": "https://agopi.tech" },
     "description": "Media Query snippets for CSS",
     "version": "1.0.0",
