@@ -11,7 +11,24 @@ This extension uses the Bootstrap 4 breakpoints. More info at https://getbootstr
 * .scss
 * .sass
 
-## Snippets
+## How to use (Life saver)
+Every snippet prefix contains 3 parts:
+
+1. Screen size:
+    * extra-small
+    * small
+    * medium
+    * large
+    * extra-large
+2. Scope:
+    * Only the selected screen size (**screen-size**-only)
+    * The selected screen size and larger (**screen-size**-and-up)
+    * The selected screen size and smaller (**screen-size**-and-down)
+3. Type:
+	* Media Query (**screen-size-scope**-media-query)
+
+
+## Snippets cheat-sheet
 
 | Prefix | Result |
 |---|---|
