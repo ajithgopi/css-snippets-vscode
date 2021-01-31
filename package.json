@@ -11,7 +11,7 @@
         "url": "https://github.com/ajithgopi/css-snippets"
     },
     "engines": {
-        "vscode": "^1.50.1"
+        "vscode": "^1.8.0"
     },
     "categories": [
         "Snippets"
