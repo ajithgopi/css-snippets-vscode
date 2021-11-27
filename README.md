@@ -2,6 +2,8 @@
 
 This is the initial version of CSS snippets extensions which helps you easy write media queries for vaious device sizes.
 
+Install: https://marketplace.visualstudio.com/items?itemName=AjithGopi.css-snippets
+
 ## Resolution Breakpoints
 
 This extension uses the Bootstrap 4 breakpoints. More info at https://getbootstrap.com/docs/4.0/layout/overview/#responsive-breakpoints
